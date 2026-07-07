@@ -1,11 +1,601 @@
 {
+  "seo": {
+    "home": {
+      "title": "Missiles vs Cities Wiki - Códigos, misiles y mejoras",
+      "description": "Wiki de Missiles vs Cities con códigos de Roblox, mejoras de misiles, construcción de ciudades, farmeo de dinero, consejos de PvP, recompensas y guías para principiantes para progresar más rápido.",
+      "keywords": "Missiles vs Cities, Roblox, códigos, misiles, mejoras, ciudad, dinero, tycoon, PvP",
+      "ogTitle": "Missiles vs Cities Wiki - Códigos, misiles y mejoras",
+      "ogDescription": "Wiki de Missiles vs Cities con códigos de Roblox, mejoras de misiles, construcción de ciudades, farmeo de dinero, consejos de PvP, recompensas y guías para principiantes para progresar más rápido.",
+      "twitterTitle": "Missiles vs Cities Wiki - Códigos, misiles y mejoras",
+      "twitterDescription": "Wiki de Missiles vs Cities con códigos de Roblox, mejoras de misiles, construcción de ciudades, farmeo de dinero, consejos de PvP, recompensas y guías para principiantes para progresar más rápido."
+    }
+  },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "missiles": "Missiles",
-    "cities": "Cities",
-    "cash": "Cash",
-    "buildings": "Buildings",
-    "strategy": "Strategy"
+    "codes": "Códigos",
+    "guide": "Guía",
+    "missiles": "Misiles",
+    "cities": "Ciudades",
+    "cash": "Dinero",
+    "buildings": "Edificios",
+    "strategy": "Estrategia"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que estás buscando no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Tycoon de misiles PvP de Roblox",
+    "title": "Wiki de Missiles vs Cities",
+    "description": "Construye y mejora tu ciudad, desbloquea misiles más potentes, ataca edificios rivales, gana dinero y recompensas, y aprende la estrategia más rápida para progresar en este juego tycoon PvP de Roblox.",
+    "getFreeCodesCTA": "Consigue códigos gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "3,09K",
+        "label": "Jugadores en línea"
+      },
+      "stat2": {
+        "value": "97%",
+        "label": "Porcentaje de me gusta"
+      },
+      "stat3": {
+        "value": "Simulación / Tycoon",
+        "label": "Tipo de juego"
+      },
+      "stat4": {
+        "value": "veedio gaems",
+        "label": "Desarrollador"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jugabilidad de Missiles vs Cities",
+    "description": "Construye y mejora tu ciudad, equipa misiles más fuertes, destruye edificios rivales y farmea dinero en este juego tycoon de misiles PvP de Roblox."
+  },
+  "tools": {
+    "title": "Missiles vs Cities",
+    "titleHighlight": "Guías",
+    "subtitle": "Todo lo que necesitas para construir ciudades, lanzar misiles y dominar Missiles vs Cities",
+    "cards": [
+      {
+        "icon": "Regalo",
+        "title": "Códigos de Missiles vs Cities",
+        "description": "Códigos activos, tipos de recompensas y dónde aparecen los nuevos códigos"
+      },
+      {
+        "icon": "Gorro de graduación",
+        "title": "Guía para principiantes de Missiles vs Cities",
+        "description": "Construye, mejora, equipa misiles y gana dinero desde el primer día"
+      },
+      {
+        "icon": "Cohete",
+        "title": "Los mejores misiles de Missiles vs Cities",
+        "description": "Lista de niveles de mejoras de misiles para destruir edificios más rápido"
+      },
+      {
+        "icon": "Edificio 2",
+        "title": "Mejoras de ciudad de Missiles vs Cities",
+        "description": "Planifica la progresión de la ciudad, los ingresos y el crecimiento de la defensa"
+      },
+      {
+        "icon": "Monedas",
+        "title": "Farmeo de dinero en Missiles vs Cities",
+        "description": "Las formas más rápidas de ganar dinero destruyendo los objetivos correctos"
+      },
+      {
+        "icon": "Edificio",
+        "title": "Guía de edificios de Missiles vs Cities",
+        "description": "Roles de los edificios, valor de las mejoras y consejos de progresión de la base"
+      },
+      {
+        "icon": "Mira",
+        "title": "Estrategia de ataque de Missiles vs Cities",
+        "description": "Elige objetivos, sincroniza tus ataques y maximiza las recompensas obtenidas"
+      },
+      {
+        "icon": "Actividad",
+        "title": "Estadísticas y actualizaciones de Missiles vs Cities",
+        "description": "Creador, género, actividad de los jugadores y señales del estado del juego"
+      }
+    ]
+  },
+  "modules": {
+    "missilesVsCitiesCodes": {
+      "title": "Códigos de Missiles vs Cities",
+      "eyebrow": "Recompensas gratuitas",
+      "intro": "Missiles vs Cities se basa en mejorar tu ciudad, equipar misiles, destruir otros edificios y ganar dinero o recompensas. Consulta la página oficial del juego en Roblox y la página de la comunidad de veedio gaems para conocer los últimos lanzamientos de códigos y actualizaciones de recompensas de Missiles vs Cities.",
+      "items": [
+        {
+          "label": "Códigos activos",
+          "status": "Consulta las fuentes oficiales",
+          "reward": "Últimos lanzamientos de recompensas",
+          "playerNote": "Visita la página del juego en Roblox y la página de la comunidad de veedio gaems para obtener los códigos y recompensas más nuevos de Missiles vs Cities."
+        },
+        {
+          "label": "Códigos caducados",
+          "status": "Archivo de códigos rotados",
+          "reward": "Tipos de recompensas anteriores",
+          "playerNote": "Los códigos más antiguos de Missiles vs Cities se registran aquí una vez que salen de la lista de activos."
+        },
+        {
+          "label": "Tipos de recompensas esperadas",
+          "status": "Ciclo de recompensas confirmado",
+          "reward": "Dinero y recompensas",
+          "playerNote": "Missiles vs Cities confirma que los jugadores explotan otros edificios para obtener dinero y recompensas."
+        },
+        {
+          "label": "Dónde consultar códigos nuevos",
+          "status": "Fuentes oficiales",
+          "reward": "Lanzamientos de nuevos códigos y actualizaciones",
+          "playerNote": "Usa la página del juego en Roblox y la página de la comunidad de veedio gaems como los canales principales de actualización para Missiles vs Cities."
+        }
+      ]
+    },
+    "missilesVsCitiesBeginnerGuide": {
+      "title": "Guía para principiantes de Missiles vs Cities",
+      "eyebrow": "Guía de inicio",
+      "intro": "Missiles vs Cities es un juego de Roblox de destrucción y mejoras donde tu progreso proviene de mejorar tu ciudad y usar misiles para atacar otros edificios. Los jugadores nuevos deben centrarse primero en el ciclo simple de dinero antes de gastar mucho en mejoras.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Construye tu ciudad",
+          "description": "Comienza haciendo crecer tu ciudad para tener una base más sólida para progresar.",
+          "tip": "Tu ciudad es el centro del ciclo de mejoras."
+        },
+        {
+          "step": 2,
+          "title": "Mejora tu ciudad",
+          "description": "Usa las ganancias iniciales para mejorar tu ciudad en lugar de gastar al azar.",
+          "tip": "Las mejoras de la ciudad ayudan a tu crecimiento a largo plazo."
+        },
+        {
+          "step": 3,
+          "title": "Equipa misiles",
+          "description": "Ármate con misiles antes de atacar otros edificios.",
+          "tip": "Se debe dar prioridad a los mejores misiles cuando mejoran la velocidad de destrucción."
+        },
+        {
+          "step": 4,
+          "title": "Explota edificios",
+          "description": "Ataca otros edificios para ganar dinero y recompensas en Missiles vs Cities.",
+          "tip": "Concéntrate en objetivos que puedas destruir de manera eficiente."
+        },
+        {
+          "step": 5,
+          "title": "Reinvierte el dinero",
+          "description": "Vuelve a invertir tu dinero en mejoras de la ciudad y de los misiles.",
+          "tip": "El progreso más rápido se logra repitiendo el ciclo de mejora y ataque."
+        }
+      ]
+    },
+    "missilesVsCitiesMissileTiers": {
+      "title": "Lista de niveles de los mejores misiles de Missiles vs Cities",
+      "eyebrow": "Clasificación de misiles",
+      "intro": "Los misiles son la herramienta de ataque principal en Missiles vs Cities. Dado que el juego recompensa a los jugadores por explotar edificios, las mejores opciones de misiles son las que destruyen objetivos más rápido y te ayudan a ganar dinero de manera más eficiente.",
+      "items": [
+        {
+          "tier": "S",
+          "name": "Misiles de mayor daño",
+          "role": "Mejor prioridad de mejora",
+          "bestFor": "Destruir edificios más rápido y farmear dinero de manera más eficiente",
+          "upgradeAdvice": "Prioriza estos cuando un misil otorgue claramente un mayor daño a los edificios."
+        },
+        {
+          "tier": "A",
+          "name": "Misiles confiables para farmear",
+          "role": "Elección principal de progresión",
+          "bestFor": "Ataques repetidos, obtención constante de dinero y destrucción general de edificios",
+          "upgradeAdvice": "Usa estos como tus misiles predeterminados mientras construyes tu ciudad."
+        },
+        {
+          "tier": "B",
+          "name": "Misiles iniciales",
+          "role": "Opción para el inicio del juego",
+          "bestFor": "Aprendiendo el ciclo de ataque y ganando las primeras recompensas de dinero",
+          "upgradeAdvice": "Úsalos al principio y luego reemplázalos cuando haya misiles más fuertes disponibles."
+        },
+        {
+          "tier": "C",
+          "name": "Misiles de bajo impacto",
+          "role": "Opción temporal",
+          "bestFor": "Solo para un uso breve al principio",
+          "upgradeAdvice": "Evita gastar mucho aquí una vez que se desbloqueen mejoras de misiles más fuertes."
+        }
+      ]
+    },
+    "missilesVsCitiesCityUpgrades": {
+      "title": "Guía de mejora de ciudad de Missiles vs Cities",
+      "eyebrow": "Progresión de la ciudad",
+      "intro": "Las mejoras de la ciudad son una parte clave de Missiles vs Cities porque el ciclo de juego oficial comienza construyendo y mejorando tu ciudad. Un buen plan inicial es mejorar las partes de tu progresión que te ayuden a ganar dinero más rápido y faciliten el uso de mejores misiles.",
+      "items": [
+        {
+          "upgradeFocus": "Crecimiento de la ciudad",
+          "priority": "Alta",
+          "purpose": "Desarrolla tu ciudad como la base de tu progresión.",
+          "bestTimeToUpgrade": "Inicio del juego",
+          "playerTip": "Comienza aquí antes de buscar mejoras de misiles costosas."
+        },
+        {
+          "upgradeFocus": "Progresión de dinero",
+          "priority": "Alta",
+          "purpose": "Facilita ganancias más rápidas al destruir edificios.",
+          "bestTimeToUpgrade": "De inicio a mitad del juego",
+          "playerTip": "Mejora cualquier cosa que te ayude a convertir los ataques en más dinero."
+        },
+        {
+          "upgradeFocus": "Soporte de misiles",
+          "priority": "Alto",
+          "purpose": "Combina el progreso de tu ciudad con ataques de misiles más fuertes.",
+          "bestTimeToUpgrade": "Mitad del juego",
+          "playerTip": "El poder de los misiles es más importante cuando te ayuda a destruir edificios más rápido."
+        },
+        {
+          "upgradeFocus": "Reinversión equilibrada",
+          "priority": "Media",
+          "purpose": "Divide el dinero entre mejoras de la ciudad y mejoras de misiles.",
+          "bestTimeToUpgrade": "Después de tu primer ciclo de dinero estable",
+          "playerTip": "No lo gastes todo en un solo lado si tus ataques o el crecimiento de tu ciudad se ralentizan."
+        },
+        {
+          "upgradeFocus": "Crecimiento tardío",
+          "priority": "Medio",
+          "purpose": "Sigue mejorando después de que el ciclo básico se vuelva fácil.",
+          "bestTimeToUpgrade": "Etapa final del juego",
+          "playerTip": "Usa los ingresos de dinero más altos para impulsar mejoras de ciudad más grandes y mejores misiles."
+        }
+      ]
+    },
+    "missilesVsCitiesCashFarming": {
+      "title": "Cómo farmear dinero más rápido en Missiles vs Cities",
+      "eyebrow": "Farmeo de dinero",
+      "intro": "Missiles vs Cities se basa en un ciclo sencillo: construye y mejora tu ciudad, equipa mejores misiles y luego destruye otros edificios para obtener dinero y recompensas. La forma más rápida de farmear es seguir mejorando tu ciudad mientras usas misiles contra objetivos que den beneficios constantes.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Mejora tu ciudad primero",
+          "description": "Empieza por construir tu ciudad porque el crecimiento de la ciudad es la base de tu progresión en Missiles vs Cities. Una ciudad más fuerte te da un mejor valor a largo plazo antes de gastar mucho en ataques."
+        },
+        {
+          "step": 2,
+          "title": "Equipa tus mejores misiles disponibles",
+          "description": "Usa los misiles más fuertes que tengas actualmente antes de atacar. Los mejores misiles te ayudan a destruir edificios de manera más constante en Missiles vs Cities, lo que apoya directamente al farmeo de dinero y recompensas."
+        },
+        {
+          "step": 3,
+          "title": "Ataca edificios para conseguir dinero y recompensas",
+          "description": "El ciclo de juego oficial de Missiles vs Cities dice que los jugadores destruyen otros edificios para conseguir dinero y recompensas, por lo que los ataques deben centrarse en los edificios en lugar de disparos al azar."
+        },
+        {
+          "step": 4,
+          "title": "Reinvierte el dinero en mejoras",
+          "description": "Gasta el dinero ganado en mejoras de la ciudad y de los misiles en lugar de guardarlo demasiado tiempo. Cada mejora ayuda a que el siguiente ciclo de farmeo de Missiles vs Cities sea más rápido."
+        },
+        {
+          "step": 5,
+          "title": "Repite el ciclo de ciudad a misil",
+          "description": "El ritmo de farmeo más limpio en Missiles vs Cities es: mejorar la ciudad, equipar mejores misiles, destruir edificios, recoger dinero y luego mejorar de nuevo."
+        }
+      ]
+    },
+    "missilesVsCitiesBuildings": {
+      "title": "Guía de edificios de Missiles vs Cities",
+      "eyebrow": "Edificios",
+      "intro": "Los edificios importan en ambos lados del juego: tu propia ciudad necesita mejoras, mientras que los edificios enemigos son lo principal que destruyes para conseguir dinero y recompensas en Missiles vs Cities. Esta guía explica los roles de los edificios que los jugadores deben entender antes de farmear o atacar.",
+      "items": [
+        {
+          "title": "Edificios de la ciudad",
+          "description": "Tu ciudad es el sistema de progresión principal en Missiles vs Cities, y construirla y mejorarla es una de las acciones principales en la descripción oficial del juego.",
+          "playerValue": "Apoya la progresión a largo plazo"
+        },
+        {
+          "title": "Edificios enemigos",
+          "description": "Los edificios enemigos son los principales objetivos de ataque, y la descripción del juego dice directamente que los jugadores destruyen los edificios de los demás para conseguir dinero y recompensas.",
+          "playerValue": "Fuente principal de recompensas de ataque"
+        },
+        {
+          "title": "Edificios mejorados",
+          "description": "Las estructuras de la ciudad mejoradas representan una progresión más fuerte en Missiles vs Cities. Los jugadores deben priorizar las mejoras porque el crecimiento de la ciudad y el poder de los misiles funcionan juntos.",
+          "playerValue": "Mejora el ciclo de mejoras"
+        },
+        {
+          "title": "Objetivos de recompensa",
+          "description": "Los edificios deben ser tratados como objetivos de dinero durante los ataques, ya que desperdiciar misiles lejos de los edificios ralentiza el progreso del farmeo.",
+          "playerValue": "Mejor eficiencia de dinero"
+        },
+        {
+          "title": "Crecimiento de la base",
+          "description": "El crecimiento de la ciudad da a los jugadores una razón más clara para seguir farmeando en Missiles vs Cities, con el ciclo principal vinculando las mejoras, los misiles y los ataques.",
+          "playerValue": "Mantiene la progresión en movimiento"
+        },
+        {
+          "title": "Presión de ataque",
+          "description": "Dado que otros jugadores pueden apuntar a los edificios, un progreso de la ciudad más fuerte también crea más presión competitiva en los servidores públicos.",
+          "playerValue": "Importante para el juego multijugador"
+        }
+      ]
+    },
+    "missilesVsCitiesAttackStrategy": {
+      "title": "Mejor estrategia de ataque para Missiles vs Cities",
+      "eyebrow": "Estrategia de ataque",
+      "intro": "Missiles vs Cities recompensa a los jugadores por usar misiles contra otros edificios. Una buena estrategia de ataque no consiste en disparar al azar; se trata de elegir objetivos de edificios, usar tus mejores misiles y convertir cada recompensa de nuevo en mejoras.",
+      "items": [
+        {
+          "question": "¿A qué debería atacar primero en Missiles vs Cities?",
+          "answer": "Céntrate en los edificios porque el ciclo de juego oficial de Missiles vs Cities está diseñado en torno a destruir los edificios de los demás para conseguir dinero y recompensas."
+        },
+        {
+          "question": "¿Cuándo debería mejorar los misiles en Missiles vs Cities?",
+          "answer": "Mejora o equipa mejores misiles cuando sientas que tus misiles actuales son demasiado débiles para destruir edificios de manera eficiente. Los misiles más fuertes hacen que cada ciclo de ataque sea más valioso."
+        },
+        {
+          "question": "¿Cómo evito desperdiciar ataques en Missiles vs Cities?",
+          "answer": "No dispares sin un objetivo de edificio claro. En Missiles vs Cities, los misiles deben usarse cuando puedan ayudar a destruir estructuras y otorgar dinero o recompensas."
+        },
+        {
+          "question": "¿Debería farmear o atacar más en Missiles vs Cities?",
+          "answer": "Usa ambos a la vez. Mejora tu ciudad para crecer, luego ataca edificios para obtener cash y después reinvierte esas recompensas en más mejoras de ciudad y misiles en Missiles vs Cities."
+        },
+        {
+          "question": "¿Cuál es el mejor ciclo de ataque en Missiles vs Cities?",
+          "answer": "Construye tu ciudad, arma tus mejores misiles, ataca edificios enemigos, recoge recompensas y luego gástalas en más mejoras para repetir el ciclo de Missiles vs Cities."
+        },
+        {
+          "question": "¿Por qué son importantes los edificios en los ataques de Missiles vs Cities?",
+          "answer": "Los edificios son el tipo de objetivo conectado directamente al ciclo de recompensas del juego. Atacar edificios es la forma más clara de convertir el uso de misiles en progreso en Missiles vs Cities."
+        }
+      ]
+    },
+    "missilesVsCitiesStats": {
+      "title": "Estadísticas y actualizaciones de Missiles vs Cities",
+      "eyebrow": "Estadísticas",
+      "intro": "Esta sección ofrece a los jugadores que regresan un resumen rápido de Missiles vs Cities, centrándose en el estado público del juego, la información del creador y las señales principales de jugabilidad de las páginas de Roblox y de analíticas.",
+      "items": [
+        {
+          "metric": "Nombre del juego",
+          "value": "Missiles vs Cities",
+          "note": "Título oficial de la experiencia de Roblox"
+        },
+        {
+          "metric": "Creador",
+          "value": "veedio gaems",
+          "note": "Listado como el grupo creador de Roblox"
+        },
+        {
+          "metric": "Género",
+          "value": "Simulación / Tycoon",
+          "note": "Listado por Creator Exchange"
+        },
+        {
+          "metric": "CCU actual",
+          "value": "3.09K",
+          "note": "Actividad pública de jugadores mostrada en Creator Exchange"
+        },
+        {
+          "metric": "Ratio de likes",
+          "value": "97%",
+          "note": "Señal de calificación pública mostrada en Creator Exchange"
+        },
+        {
+          "metric": "Estado de los códigos",
+          "value": "Rastreado en Roblox",
+          "note": "Los lanzamientos de códigos aparecen en la página oficial de Roblox y en la comunidad de veedio gaems"
+        },
+        {
+          "metric": "Jugabilidad principal",
+          "value": "Construye y mejora tu ciudad, arma misiles y destruye edificios para obtener cash y recompensas",
+          "note": "Coincide con la descripción oficial del juego en Roblox"
+        },
+        {
+          "metric": "Roblox Place ID",
+          "value": "112641748896693",
+          "note": "Utilizado por la URL oficial de la experiencia de Roblox"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Missiles vs Cities",
+    "questions": [
+      {
+        "question": "¿Es Missiles vs Cities un juego multijugador?",
+        "answer": "Sí. Missiles vs Cities es un juego de Roblox de tipo missile tycoon PvP donde los jugadores construyen ciudades, lanzan misiles y destruyen edificios rivales para obtener cash y recompensas."
+      },
+      {
+        "question": "¿Cómo gano cash rápido en Missiles vs Cities?",
+        "answer": "En Missiles vs Cities, el cash más rápido se obtiene mejorando tu ciudad, equipando misiles más fuertes y centrando los ataques en edificios enemigos que ofrecen retornos de recompensa fiables."
+      },
+      {
+        "question": "¿Cuáles son los mejores misiles para usar en Missiles vs Cities?",
+        "answer": "Los mejores misiles en Missiles vs Cities son los que destruyen edificios más rápido y mejoran tu eficiencia para farmear dinero. Prioriza los misiles de alto daño tan pronto como se desbloqueen."
+      },
+      {
+        "question": "¿Dónde puedo jugar Missiles vs Cities?",
+        "answer": "Missiles vs Cities está disponible en Roblox. Puedes iniciarlo directamente desde la página oficial del juego en Roblox en cualquier dispositivo compatible."
+      },
+      {
+        "question": "¿Quién creó Missiles vs Cities?",
+        "answer": "Missiles vs Cities es desarrollado por veedio gaems. El grupo de creadores oficial de Roblox y la página del juego son los principales canales de actualización para nuevo contenido y códigos."
+      },
+      {
+        "question": "¿Hay códigos en Missiles vs Cities?",
+        "answer": "Sí. Los nuevos códigos de Missiles vs Cities y las recompensas aparecen en la página oficial del juego en Roblox y en la página de la comunidad de veedio gaems, así que revisa ambas para ver las últimas actualizaciones."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para dominar Missiles vs Cities?",
+    "description": "¡Entra a Missiles vs Cities en Roblox, construye tu ciudad, lanza misiles y sube en la tabla de clasificación!",
+    "joinCommunity": "Ver en YouTube",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Missiles vs Cities",
+    "description": "Tu centro de recursos completo para códigos de Missiles vs Cities, misiles, mejoras de la ciudad, farmeo de dinero, consejos de PvP y guías para principiantes.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "roblox": "Juego de Roblox",
+    "youtube": "YouTube",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Derechos de autor",
+    "copyright": "© 2026 Missiles vs Cities Wiki. No afiliado con veedio gaems.",
+    "disclaimer": "Sitio web de recursos no oficial hecho por fans."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Missiles vs Cities",
+      "description": "Los últimos códigos activos de Missiles vs Cities para obtener dinero gratis, recompensas y bonificaciones, además de dónde encontrar nuevos lanzamientos de códigos del desarrollador.",
+      "metaTitle": "Códigos de Missiles vs Cities - Dinero gratis y recompensas (2026)",
+      "metaDescription": "Canjea códigos activos de Missiles vs Cities para obtener dinero gratis y recompensas. Lista actualizada de códigos que funcionan y dónde aparecen los nuevos lanzamientos para el tycoon de misiles de Roblox.",
+      "categoryLabel": "CÓDIGOS",
+      "whatIs": "¿Qué son los códigos de Missiles vs Cities?",
+      "whatIsDescription": "Los códigos de Missiles vs Cities son cadenas de recompensa promocionales lanzadas por veedio gaems que otorgan dinero gratis, bonificaciones y potenciadores de inicio. Los nuevos códigos se lanzan a través de la página oficial del juego en Roblox y los canales de la comunidad de desarrolladores.",
+      "why": "¿Por qué canjear códigos?",
+      "whySteps": {
+        "step1Title": "Aumento instantáneo de dinero",
+        "step1Description": "Los códigos activos otorgan dinero gratis que puedes destinar directamente a las mejoras de la ciudad y de los misiles",
+        "step2Title": "Progreso inicial más rápido",
+        "step2Description": "Las recompensas de inicio ayudan a los nuevos jugadores a saltarse el progreso lento y ganar impulso en Missiles vs Cities",
+        "step3Title": "Mantente al tanto de los lanzamientos",
+        "step3Description": "Seguir las fuentes oficiales te mantiene en primer lugar cada vez que aparecen códigos nuevos"
+      },
+      "featured": "Códigos destacados",
+      "all": "Todos los códigos"
+    },
+    "guide": {
+      "title": "Guía de Missiles vs Cities",
+      "description": "Guías completas de Missiles vs Cities que cubren recorridos para principiantes, conceptos básicos de juego, consejos y tutoriales para dominar el tycoon de misiles de Roblox.",
+      "metaTitle": "Guía de Missiles vs Cities - Recorridos, consejos y tutoriales",
+      "metaDescription": "Aprende a jugar Missiles vs Cities con guías para principiantes, recorridos, consejos y tutoriales. Domina la construcción de ciudades, las mejoras de misiles y el farmeo de dinero.",
+      "categoryLabel": "GUÍA",
+      "whatIs": "¿Qué hay en esta guía?",
+      "whatIsDescription": "La guía de Missiles vs Cities cubre el ciclo de juego principal: construir y mejorar tu ciudad, equipar misiles, atacar edificios rivales y ganar dinero. Abarca recorridos para principiantes, conceptos básicos de juego, consejos y tutoriales paso a paso.",
+      "why": "¿Por qué leer la guía?",
+      "whySteps": {
+        "step1Title": "Aprende el ciclo principal",
+        "step1Description": "Entiende cómo se conectan la construcción, las mejoras, los ataques y las ganancias en Missiles vs Cities",
+        "step2Title": "Evita errores de principiante",
+        "step2Description": "Los recorridos paso a paso te ayudan a evitar desperdiciar dinero y ciudades mal construidas desde el primer día",
+        "step3Title": "Progresa más rápido",
+        "step3Description": "Los consejos y tutoriales prácticos acortan el camino desde una ciudad inicial hasta una potencia de misiles dominante"
+      },
+      "featured": "Guías destacadas",
+      "all": "Todas las guías"
+    },
+    "missiles": {
+      "title": "Misiles de Missiles vs Cities",
+      "description": "Cada misil de Missiles vs Cities clasificado y explicado: mejores misiles, rutas de mejora, daño, alcance y estadísticas de tiempo de recarga para el tycoon de Roblox.",
+      "metaTitle": "Misiles de Missiles vs Cities - Mejores opciones, mejoras y estadísticas",
+      "metaDescription": "Compara los mejores misiles de Missiles vs Cities, prioridades de mejora, daño, alcance y tiempo de recarga. Construye el arsenal más fuerte para el tycoon de misiles de Roblox.",
+      "categoryLabel": "MISILES",
+      "whatIs": "¿Qué son los misiles de Missiles vs Cities?",
+      "whatIsDescription": "Los misiles son tus armas ofensivas en Missiles vs Cities. Cada misil tiene un daño, alcance, tiempo de recarga y potencial de mejora únicos, lo que determina con qué eficacia puedes destruir edificios rivales y reclamar recompensas de dinero.",
+      "why": "¿Por qué centrarse en los misiles?",
+      "whySteps": {
+        "step1Title": "Elige el mejor misil",
+        "step1Description": "Una lista de niveles clasificada muestra qué misiles infligen más daño por lanzamiento",
+        "step2Title": "Mejora con inteligencia",
+        "step2Description": "Sigue el orden de mejora correcto para maximizar el daño, el alcance y la eficiencia del tiempo de recarga",
+        "step3Title": "Gana más ataques",
+        "step3Description": "Los misiles más fuertes atraviesan los edificios más rápido, ganando más dinero por incursión"
+      },
+      "featured": "Misiles destacados",
+      "all": "Todos los misiles"
+    },
+    "cities": {
+      "title": "Ciudades de Missiles vs Cities",
+      "description": "Construye y defiende la mejor ciudad de Missiles vs Cities: rutas de mejora, consejos de diseño, estrategia de defensa y planes de expansión para el tycoon de Roblox.",
+      "metaTitle": "Ciudades de Missiles vs Cities - Construcciones, mejoras y defensa",
+      "metaDescription": "Domina la construcción de ciudades en Missiles vs Cities con rutas de mejora, consejos de diseño, estrategia de defensa y planes de expansión. Haz crecer la ciudad más fuerte en el tycoon de Roblox.",
+      "categoryLabel": "CIUDADES",
+      "whatIs": "¿Qué es una ciudad de Missiles vs Cities?",
+      "whatIsDescription": "Tu ciudad es el motor económico en Missiles vs Cities. Construir y mejorar estructuras genera dinero, mientras que un diseño inteligente y la planificación de la defensa protegen tus ingresos de los ataques de misiles rivales.",
+      "why": "¿Por qué construir tu ciudad?",
+      "whySteps": {
+        "step1Title": "Gana más dinero",
+        "step1Description": "Las estructuras de la ciudad mejoradas producen los ingresos que financian tus misiles y tu expansión",
+        "step2Title": "Defiende tus ingresos",
+        "step2Description": "El diseño inteligente y las mejoras protegen tus edificios de los ataques rivales",
+        "step3Title": "Escala más rápido",
+        "step3Description": "Una ruta de mejora clara convierte tu ciudad en una fuente inagotable de generación de dinero"
+      },
+      "featured": "Guías de ciudades destacadas",
+      "all": "Todas las guías de ciudades"
+    },
+    "cash": {
+      "title": "Dinero en Missiles vs Cities",
+      "description": "Las formas más rápidas de ganar dinero en Missiles vs Cities: rutas de farmeo, guías de dinero, fuentes de recompensa y prioridades de gasto para el tycoon de Roblox.",
+      "metaTitle": "Dinero en Missiles vs Cities - La guía más rápida de farmeo y dinero",
+      "metaDescription": "Aprende las formas más rápidas de farmear dinero en Missiles vs Cities con guías de dinero, fuentes de recompensa y prioridades de gasto. Amasa una fortuna en el tycoon de misiles de Roblox.",
+      "categoryLabel": "DINERO",
+      "whatIs": "¿Qué es el dinero en Missiles vs Cities?",
+      "whatIsDescription": "El dinero es la moneda principal en Missiles vs Cities, obtenida al destruir edificios rivales y gestionar tu ciudad. Financia la compra de misiles, las mejoras de la ciudad y el progreso, por lo que farmearlo de manera eficiente impulsa cada parte del juego.",
+      "why": "¿Por qué farmear dinero?",
+      "whySteps": {
+        "step1Title": "Financia tus mejoras",
+        "step1Description": "Un flujo constante de dinero paga los misiles, las mejoras de la ciudad y la expansión",
+        "step2Title": "Farmea las rutas más rápidas",
+        "step2Description": "Las guías clasifican los métodos de farmeo más eficientes para que ganes más por minuto",
+        "step3Title": "Gasta con inteligencia",
+        "step3Description": "Las prioridades de gasto claras aseguran que cada dólar impulse tu progreso"
+      },
+      "featured": "Guías de dinero destacadas",
+      "all": "Todas las guías de dinero"
+    },
+    "buildings": {
+      "title": "Edificios en Missiles vs Cities",
+      "description": "Todos los edificios de Missiles vs Cities explicados: mejores edificios, rutas de mejora y cómo destruir edificios rivales para obtener el máximo de dinero y recompensas.",
+      "metaTitle": "Edificios en Missiles vs Cities - Mejores opciones y guía de destrucción",
+      "metaDescription": "Descubre los mejores edificios de Missiles vs Cities, rutas de mejora y cómo destruir edificios rivales para ganar dinero. Domina la estrategia de construcción en el tycoon de misiles de Roblox.",
+      "categoryLabel": "EDIFICIOS",
+      "whatIs": "¿Qué son los edificios en Missiles vs Cities?",
+      "whatIsDescription": "Los edificios son las estructuras que definen tanto tu ciudad como tus objetivos en Missiles vs Cities. Saber qué edificios mejorar, construir y destruir determina qué tan rápido ganas dinero y qué tan fuerte se vuelve tu ciudad.",
+      "why": "¿Por qué entender los edificios?",
+      "whySteps": {
+        "step1Title": "Construye las mejores estructuras",
+        "step1Description": "Las guías clasifican qué edificios ofrecen el mayor valor para tu inversión",
+        "step2Title": "Mejora de manera eficiente",
+        "step2Description": "Sigue rutas de mejora inteligentes para aumentar los ingresos y la durabilidad sin desperdiciar dinero",
+        "step3Title": "Destruye para obtener recompensas",
+        "step3Description": "Apunta a los edificios rivales correctos para ganar el máximo de dinero en cada ataque"
+      },
+      "featured": "Guías de edificios destacadas",
+      "all": "Todas las guías de edificios"
+    },
+    "strategy": {
+      "title": "Estrategia de Missiles vs Cities",
+      "description": "La mejor estrategia de Missiles vs Cities para ataque y defensa: guías de objetivos, sincronización de ataques, configuraciones de defensa y tácticas PvP ganadoras para el tycoon de Roblox.",
+      "metaTitle": "Estrategia de Missiles vs Cities - Mejores tácticas de ataque y defensa",
+      "metaDescription": "Domina la mejor estrategia de Missiles vs Cities con guías de ataque, configuraciones de defensa, selección de objetivos y tácticas PvP. Domina el tycoon de misiles de Roblox.",
+      "categoryLabel": "ESTRATEGIA",
+      "whatIs": "¿Qué es la estrategia de Missiles vs Cities?",
+      "whatIsDescription": "La estrategia en Missiles vs Cities es cómo equilibras el ataque y la defensa: elegir los objetivos correctos, sincronizar tus ataques con misiles y proteger tu ciudad. Las tácticas sólidas convierten a un jugador promedio en una fuerza dominante en el PvP de este tycoon de misiles.",
+      "why": "¿Por qué usar una estrategia?",
+      "whySteps": {
+        "step1Title": "Ataca los objetivos correctos",
+        "step1Description": "Las guías de objetivos muestran qué edificios rivales otorgan el mejor dinero por impacto",
+        "step2Title": "Defiende tu ciudad",
+        "step2Description": "Las configuraciones de defensa y la sincronización protegen tus ingresos de los contraataques",
+        "step3Title": "Gana el ciclo PvP",
+        "step3Description": "Las tácticas inteligentes de ataque y defensa te mantienen a la vanguardia en cada partida de Missiles vs Cities"
+      },
+      "featured": "Guías de estrategia destacadas",
+      "all": "Todas las guías de estrategia"
+    }
   }
 }

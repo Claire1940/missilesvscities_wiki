@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block technical/util pages from indexing
+Disallow: /api/
+Disallow: /_next/
+
+Sitemap: https://www.missilesvscities.wiki/sitemap.xml
