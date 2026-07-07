@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "missiles": "Missiles",
+    "cities": "Cities",
+    "cash": "Cash",
+    "buildings": "Buildings",
+    "strategy": "Strategy"
+  }
+}

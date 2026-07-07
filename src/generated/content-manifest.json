@@ -1,1 +1,594 @@
-{}
+{
+  "en": {
+    "buildings": [
+      {
+        "slug": "missiles-vs-cities-best-buildings",
+        "file": "missiles-vs-cities-best-buildings"
+      },
+      {
+        "slug": "missiles-vs-cities-building-upgrades",
+        "file": "missiles-vs-cities-building-upgrades"
+      },
+      {
+        "slug": "missiles-vs-cities-buildings-guide",
+        "file": "missiles-vs-cities-buildings-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-destroy-buildings",
+        "file": "missiles-vs-cities-destroy-buildings"
+      }
+    ],
+    "cash": [
+      {
+        "slug": "missiles-vs-cities-cash-guide",
+        "file": "missiles-vs-cities-cash-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-farming-guide",
+        "file": "missiles-vs-cities-farming-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-fastest-cash",
+        "file": "missiles-vs-cities-fastest-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-get-cash",
+        "file": "missiles-vs-cities-how-to-get-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-money-guide",
+        "file": "missiles-vs-cities-money-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-rewards",
+        "file": "missiles-vs-cities-rewards"
+      }
+    ],
+    "cities": [
+      {
+        "slug": "missiles-vs-cities-best-city",
+        "file": "missiles-vs-cities-best-city"
+      },
+      {
+        "slug": "missiles-vs-cities-city-building",
+        "file": "missiles-vs-cities-city-building"
+      },
+      {
+        "slug": "missiles-vs-cities-city-defense",
+        "file": "missiles-vs-cities-city-defense"
+      },
+      {
+        "slug": "missiles-vs-cities-city-guide",
+        "file": "missiles-vs-cities-city-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-city-layout",
+        "file": "missiles-vs-cities-city-layout"
+      },
+      {
+        "slug": "missiles-vs-cities-city-upgrades",
+        "file": "missiles-vs-cities-city-upgrades"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "missiles-vs-cities-codes",
+        "file": "missiles-vs-cities-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "missiles-vs-cities-beginner-guide",
+        "file": "missiles-vs-cities-beginner-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-guide",
+        "file": "missiles-vs-cities-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-play",
+        "file": "missiles-vs-cities-how-to-play"
+      },
+      {
+        "slug": "missiles-vs-cities-tips",
+        "file": "missiles-vs-cities-tips"
+      },
+      {
+        "slug": "missiles-vs-cities-tutorial",
+        "file": "missiles-vs-cities-tutorial"
+      },
+      {
+        "slug": "missiles-vs-cities-walkthrough",
+        "file": "missiles-vs-cities-walkthrough"
+      }
+    ],
+    "missiles": [
+      {
+        "slug": "missiles-vs-cities-best-missiles",
+        "file": "missiles-vs-cities-best-missiles"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-cooldown",
+        "file": "missiles-vs-cities-missile-cooldown"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-damage",
+        "file": "missiles-vs-cities-missile-damage"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-guide",
+        "file": "missiles-vs-cities-missile-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-range",
+        "file": "missiles-vs-cities-missile-range"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-upgrades",
+        "file": "missiles-vs-cities-missile-upgrades"
+      }
+    ],
+    "strategy": [
+      {
+        "slug": "missiles-vs-cities-attack-guide",
+        "file": "missiles-vs-cities-attack-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-best-strategy",
+        "file": "missiles-vs-cities-best-strategy"
+      },
+      {
+        "slug": "missiles-vs-cities-defense-guide",
+        "file": "missiles-vs-cities-defense-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-target-guide",
+        "file": "missiles-vs-cities-target-guide"
+      }
+    ]
+  },
+  "es": {
+    "buildings": [
+      {
+        "slug": "missiles-vs-cities-best-buildings",
+        "file": "missiles-vs-cities-best-buildings"
+      },
+      {
+        "slug": "missiles-vs-cities-building-upgrades",
+        "file": "missiles-vs-cities-building-upgrades"
+      },
+      {
+        "slug": "missiles-vs-cities-buildings-guide",
+        "file": "missiles-vs-cities-buildings-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-destroy-buildings",
+        "file": "missiles-vs-cities-destroy-buildings"
+      }
+    ],
+    "cash": [
+      {
+        "slug": "missiles-vs-cities-cash-guide",
+        "file": "missiles-vs-cities-cash-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-farming-guide",
+        "file": "missiles-vs-cities-farming-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-fastest-cash",
+        "file": "missiles-vs-cities-fastest-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-get-cash",
+        "file": "missiles-vs-cities-how-to-get-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-money-guide",
+        "file": "missiles-vs-cities-money-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-rewards",
+        "file": "missiles-vs-cities-rewards"
+      }
+    ],
+    "cities": [
+      {
+        "slug": "missiles-vs-cities-best-city",
+        "file": "missiles-vs-cities-best-city"
+      },
+      {
+        "slug": "missiles-vs-cities-city-building",
+        "file": "missiles-vs-cities-city-building"
+      },
+      {
+        "slug": "missiles-vs-cities-city-defense",
+        "file": "missiles-vs-cities-city-defense"
+      },
+      {
+        "slug": "missiles-vs-cities-city-guide",
+        "file": "missiles-vs-cities-city-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-city-layout",
+        "file": "missiles-vs-cities-city-layout"
+      },
+      {
+        "slug": "missiles-vs-cities-city-upgrades",
+        "file": "missiles-vs-cities-city-upgrades"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "missiles-vs-cities-codes",
+        "file": "missiles-vs-cities-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "missiles-vs-cities-beginner-guide",
+        "file": "missiles-vs-cities-beginner-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-guide",
+        "file": "missiles-vs-cities-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-play",
+        "file": "missiles-vs-cities-how-to-play"
+      },
+      {
+        "slug": "missiles-vs-cities-tips",
+        "file": "missiles-vs-cities-tips"
+      },
+      {
+        "slug": "missiles-vs-cities-tutorial",
+        "file": "missiles-vs-cities-tutorial"
+      },
+      {
+        "slug": "missiles-vs-cities-walkthrough",
+        "file": "missiles-vs-cities-walkthrough"
+      }
+    ],
+    "missiles": [
+      {
+        "slug": "missiles-vs-cities-best-missiles",
+        "file": "missiles-vs-cities-best-missiles"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-cooldown",
+        "file": "missiles-vs-cities-missile-cooldown"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-damage",
+        "file": "missiles-vs-cities-missile-damage"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-guide",
+        "file": "missiles-vs-cities-missile-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-range",
+        "file": "missiles-vs-cities-missile-range"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-upgrades",
+        "file": "missiles-vs-cities-missile-upgrades"
+      }
+    ],
+    "strategy": [
+      {
+        "slug": "missiles-vs-cities-attack-guide",
+        "file": "missiles-vs-cities-attack-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-best-strategy",
+        "file": "missiles-vs-cities-best-strategy"
+      },
+      {
+        "slug": "missiles-vs-cities-defense-guide",
+        "file": "missiles-vs-cities-defense-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-target-guide",
+        "file": "missiles-vs-cities-target-guide"
+      }
+    ]
+  },
+  "fr": {
+    "buildings": [
+      {
+        "slug": "missiles-vs-cities-best-buildings",
+        "file": "missiles-vs-cities-best-buildings"
+      },
+      {
+        "slug": "missiles-vs-cities-building-upgrades",
+        "file": "missiles-vs-cities-building-upgrades"
+      },
+      {
+        "slug": "missiles-vs-cities-buildings-guide",
+        "file": "missiles-vs-cities-buildings-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-destroy-buildings",
+        "file": "missiles-vs-cities-destroy-buildings"
+      }
+    ],
+    "cash": [
+      {
+        "slug": "missiles-vs-cities-cash-guide",
+        "file": "missiles-vs-cities-cash-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-farming-guide",
+        "file": "missiles-vs-cities-farming-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-fastest-cash",
+        "file": "missiles-vs-cities-fastest-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-get-cash",
+        "file": "missiles-vs-cities-how-to-get-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-money-guide",
+        "file": "missiles-vs-cities-money-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-rewards",
+        "file": "missiles-vs-cities-rewards"
+      }
+    ],
+    "cities": [
+      {
+        "slug": "missiles-vs-cities-best-city",
+        "file": "missiles-vs-cities-best-city"
+      },
+      {
+        "slug": "missiles-vs-cities-city-building",
+        "file": "missiles-vs-cities-city-building"
+      },
+      {
+        "slug": "missiles-vs-cities-city-defense",
+        "file": "missiles-vs-cities-city-defense"
+      },
+      {
+        "slug": "missiles-vs-cities-city-guide",
+        "file": "missiles-vs-cities-city-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-city-layout",
+        "file": "missiles-vs-cities-city-layout"
+      },
+      {
+        "slug": "missiles-vs-cities-city-upgrades",
+        "file": "missiles-vs-cities-city-upgrades"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "missiles-vs-cities-codes",
+        "file": "missiles-vs-cities-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "missiles-vs-cities-beginner-guide",
+        "file": "missiles-vs-cities-beginner-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-guide",
+        "file": "missiles-vs-cities-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-play",
+        "file": "missiles-vs-cities-how-to-play"
+      },
+      {
+        "slug": "missiles-vs-cities-tips",
+        "file": "missiles-vs-cities-tips"
+      },
+      {
+        "slug": "missiles-vs-cities-tutorial",
+        "file": "missiles-vs-cities-tutorial"
+      },
+      {
+        "slug": "missiles-vs-cities-walkthrough",
+        "file": "missiles-vs-cities-walkthrough"
+      }
+    ],
+    "missiles": [
+      {
+        "slug": "missiles-vs-cities-best-missiles",
+        "file": "missiles-vs-cities-best-missiles"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-cooldown",
+        "file": "missiles-vs-cities-missile-cooldown"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-damage",
+        "file": "missiles-vs-cities-missile-damage"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-guide",
+        "file": "missiles-vs-cities-missile-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-range",
+        "file": "missiles-vs-cities-missile-range"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-upgrades",
+        "file": "missiles-vs-cities-missile-upgrades"
+      }
+    ],
+    "strategy": [
+      {
+        "slug": "missiles-vs-cities-attack-guide",
+        "file": "missiles-vs-cities-attack-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-best-strategy",
+        "file": "missiles-vs-cities-best-strategy"
+      },
+      {
+        "slug": "missiles-vs-cities-defense-guide",
+        "file": "missiles-vs-cities-defense-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-target-guide",
+        "file": "missiles-vs-cities-target-guide"
+      }
+    ]
+  },
+  "pt": {
+    "buildings": [
+      {
+        "slug": "missiles-vs-cities-best-buildings",
+        "file": "missiles-vs-cities-best-buildings"
+      },
+      {
+        "slug": "missiles-vs-cities-building-upgrades",
+        "file": "missiles-vs-cities-building-upgrades"
+      },
+      {
+        "slug": "missiles-vs-cities-buildings-guide",
+        "file": "missiles-vs-cities-buildings-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-destroy-buildings",
+        "file": "missiles-vs-cities-destroy-buildings"
+      }
+    ],
+    "cash": [
+      {
+        "slug": "missiles-vs-cities-cash-guide",
+        "file": "missiles-vs-cities-cash-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-farming-guide",
+        "file": "missiles-vs-cities-farming-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-fastest-cash",
+        "file": "missiles-vs-cities-fastest-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-get-cash",
+        "file": "missiles-vs-cities-how-to-get-cash"
+      },
+      {
+        "slug": "missiles-vs-cities-money-guide",
+        "file": "missiles-vs-cities-money-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-rewards",
+        "file": "missiles-vs-cities-rewards"
+      }
+    ],
+    "cities": [
+      {
+        "slug": "missiles-vs-cities-best-city",
+        "file": "missiles-vs-cities-best-city"
+      },
+      {
+        "slug": "missiles-vs-cities-city-building",
+        "file": "missiles-vs-cities-city-building"
+      },
+      {
+        "slug": "missiles-vs-cities-city-defense",
+        "file": "missiles-vs-cities-city-defense"
+      },
+      {
+        "slug": "missiles-vs-cities-city-guide",
+        "file": "missiles-vs-cities-city-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-city-layout",
+        "file": "missiles-vs-cities-city-layout"
+      },
+      {
+        "slug": "missiles-vs-cities-city-upgrades",
+        "file": "missiles-vs-cities-city-upgrades"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "missiles-vs-cities-codes",
+        "file": "missiles-vs-cities-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "missiles-vs-cities-beginner-guide",
+        "file": "missiles-vs-cities-beginner-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-guide",
+        "file": "missiles-vs-cities-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-how-to-play",
+        "file": "missiles-vs-cities-how-to-play"
+      },
+      {
+        "slug": "missiles-vs-cities-tips",
+        "file": "missiles-vs-cities-tips"
+      },
+      {
+        "slug": "missiles-vs-cities-tutorial",
+        "file": "missiles-vs-cities-tutorial"
+      },
+      {
+        "slug": "missiles-vs-cities-walkthrough",
+        "file": "missiles-vs-cities-walkthrough"
+      }
+    ],
+    "missiles": [
+      {
+        "slug": "missiles-vs-cities-best-missiles",
+        "file": "missiles-vs-cities-best-missiles"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-cooldown",
+        "file": "missiles-vs-cities-missile-cooldown"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-damage",
+        "file": "missiles-vs-cities-missile-damage"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-guide",
+        "file": "missiles-vs-cities-missile-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-range",
+        "file": "missiles-vs-cities-missile-range"
+      },
+      {
+        "slug": "missiles-vs-cities-missile-upgrades",
+        "file": "missiles-vs-cities-missile-upgrades"
+      }
+    ],
+    "strategy": [
+      {
+        "slug": "missiles-vs-cities-attack-guide",
+        "file": "missiles-vs-cities-attack-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-best-strategy",
+        "file": "missiles-vs-cities-best-strategy"
+      },
+      {
+        "slug": "missiles-vs-cities-defense-guide",
+        "file": "missiles-vs-cities-defense-guide"
+      },
+      {
+        "slug": "missiles-vs-cities-target-guide",
+        "file": "missiles-vs-cities-target-guide"
+      }
+    ]
+  }
+}
