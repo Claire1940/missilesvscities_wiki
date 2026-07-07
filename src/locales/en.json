@@ -256,22 +256,22 @@
         {
           "step": 1,
           "title": "Upgrade your city first",
-          "description": "Start by building up your city because city growth is the base of your progression in Missiles vs Cities."
+          "description": "Start by building up your city because city growth is the base of your progression in Missiles vs Cities. A stronger city gives you better long-term value before you spend heavily on attacks."
         },
         {
           "step": 2,
           "title": "Equip your best available missiles",
-          "description": "Use the strongest missiles you currently have before attacking so you can destroy buildings more consistently."
+          "description": "Use the strongest missiles you currently have before attacking. Better missiles help you destroy buildings more consistently in Missiles vs Cities, which directly supports cash and reward farming."
         },
         {
           "step": 3,
           "title": "Attack buildings for cash and rewards",
-          "description": "The official game loop says players blow up other buildings for cash and rewards, so attacks should focus on buildings."
+          "description": "The official Missiles vs Cities game loop says players blow up other buildings for cash and rewards, so attacks should focus on buildings instead of random shots."
         },
         {
           "step": 4,
           "title": "Reinvest cash into upgrades",
-          "description": "Spend earned cash on city and missile upgrades instead of holding it too long to speed up each farming cycle."
+          "description": "Spend earned cash on city and missile upgrades instead of holding it too long. Each upgrade helps make the next Missiles vs Cities farming cycle faster."
         },
         {
           "step": 5,
@@ -297,7 +297,7 @@
         },
         {
           "title": "Upgraded Buildings",
-          "description": "Upgraded city structures represent stronger progression, and city growth and missile power work together in Missiles vs Cities.",
+          "description": "Upgraded city structures represent stronger progression in Missiles vs Cities. Players should prioritize upgrades because city growth and missile power work together.",
           "playerValue": "Improves the upgrade loop"
         },
         {
