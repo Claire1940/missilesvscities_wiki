@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -39,11 +39,11 @@
       },
       "stat2": {
         "value": "97%",
-        "label": "Positive Reviews"
+        "label": "Like Ratio"
       },
       "stat3": {
-        "value": "Simulation",
-        "label": "Tycoon PvP"
+        "value": "Simulation / Tycoon",
+        "label": "Game Type"
       },
       "stat4": {
         "value": "veedio gaems",
@@ -52,696 +52,346 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Missiles vs Cities Gameplay",
+    "description": "Build and upgrade your city, equip stronger missiles, destroy rival buildings, and farm cash in this Roblox missile tycoon PvP game."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Missiles vs Cities",
+    "titleHighlight": "Guides",
+    "subtitle": "Everything you need to build cities, launch missiles, and dominate Missiles vs Cities",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "Gift",
+        "title": "Missiles vs Cities Codes",
+        "description": "Active codes, reward types, and where new code drops appear"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "GraduationCap",
+        "title": "Missiles vs Cities Beginner Guide",
+        "description": "Build, upgrade, equip missiles, and earn cash from day one"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Rocket",
+        "title": "Missiles vs Cities Best Missiles",
+        "description": "Tier list of missile upgrades for faster building destruction"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Building2",
+        "title": "Missiles vs Cities City Upgrades",
+        "description": "Plan city progression, income, and defense growth"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Coins",
+        "title": "Missiles vs Cities Cash Farming",
+        "description": "Fastest ways to earn cash by destroying the right targets"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "Building",
+        "title": "Missiles vs Cities Buildings Guide",
+        "description": "Building roles, upgrade value, and base progression tips"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "Crosshair",
+        "title": "Missiles vs Cities Attack Strategy",
+        "description": "Pick targets, time attacks, and maximize reward returns"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Activity",
+        "title": "Missiles vs Cities Stats and Updates",
+        "description": "Creator, genre, player activity, and game status signals"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "missilesVsCitiesCodes": {
+      "title": "Missiles vs Cities Codes",
+      "eyebrow": "Free Rewards",
+      "intro": "Missiles vs Cities is built around upgrading your city, equipping missiles, destroying other buildings, and earning cash or rewards. Check the official Roblox game page and the veedio gaems community page for the latest Missiles vs Cities code drops and reward updates.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "label": "Active Codes",
+          "status": "Check official sources",
+          "reward": "Latest reward drops",
+          "playerNote": "Visit the Roblox game page and the veedio gaems community page for the newest Missiles vs Cities codes and rewards."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "label": "Expired Codes",
+          "status": "Rotated codes archive",
+          "reward": "Previous reward types",
+          "playerNote": "Older Missiles vs Cities codes are tracked here once they rotate out of the active list."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "label": "Expected Reward Types",
+          "status": "Confirmed reward loop",
+          "reward": "Cash and rewards",
+          "playerNote": "Missiles vs Cities confirms that players blow up other buildings for cash and rewards."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "label": "Where To Check New Codes",
+          "status": "Official sources",
+          "reward": "New code drops and updates",
+          "playerNote": "Use the Roblox game page and the veedio gaems community page as the main update channels for Missiles vs Cities."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+    "missilesVsCitiesBeginnerGuide": {
+      "title": "Missiles vs Cities Beginner Guide",
+      "eyebrow": "Starter Guide",
+      "intro": "Missiles vs Cities is a Roblox destruction and upgrade game where your progress comes from improving your city and using missiles to attack other buildings. New players should focus on the simple cash loop first before spending heavily on upgrades.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "step": 1,
+          "title": "Build Your City",
+          "description": "Start by growing your city so you have a stronger base for progression.",
+          "tip": "Your city is the center of the upgrade loop."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "step": 2,
+          "title": "Upgrade Your City",
+          "description": "Use early earnings to improve your city instead of spending randomly.",
+          "tip": "City upgrades help your long-term growth."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "step": 3,
+          "title": "Equip Missiles",
+          "description": "Arm yourself with missiles before attacking other buildings.",
+          "tip": "Better missiles should be prioritized when they improve destruction speed."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "step": 4,
+          "title": "Blow Up Buildings",
+          "description": "Attack other buildings to earn cash and rewards in Missiles vs Cities.",
+          "tip": "Focus on targets you can destroy efficiently."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
+          "step": 5,
+          "title": "Reinvest Cash",
+          "description": "Put your cash back into city upgrades and missile improvements.",
+          "tip": "The fastest progress comes from repeating the upgrade and attack loop."
         }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
       ]
     },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
+    "missilesVsCitiesMissileTiers": {
+      "title": "Missiles vs Cities Best Missiles Tier List",
+      "eyebrow": "Missile Ranking",
+      "intro": "Missiles are the main attack tool in Missiles vs Cities. Since the game rewards players for blowing up buildings, the best missile choices are the ones that destroy targets faster and help you earn cash more efficiently.",
+      "items": [
         {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "tier": "S",
+          "name": "Highest-Damage Missiles",
+          "role": "Best upgrade priority",
+          "bestFor": "Destroying buildings faster and farming cash more efficiently",
+          "upgradeAdvice": "Prioritize these when a missile clearly gives stronger building damage."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "tier": "A",
+          "name": "Reliable Farming Missiles",
+          "role": "Main progression choice",
+          "bestFor": "Repeated attacks, steady cash gain, and general building destruction",
+          "upgradeAdvice": "Use these as your default missiles while building up your city."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "tier": "B",
+          "name": "Starter Missiles",
+          "role": "Early-game option",
+          "bestFor": "Learning the attack loop and earning first cash rewards",
+          "upgradeAdvice": "Use them early, then replace them once stronger missiles become available."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
+          "tier": "C",
+          "name": "Low-Impact Missiles",
+          "role": "Temporary option",
+          "bestFor": "Short early use only",
+          "upgradeAdvice": "Skip heavy spending here once stronger missile upgrades are unlocked."
         }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
       ]
     },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
+    "missilesVsCitiesCityUpgrades": {
+      "title": "Missiles vs Cities City Upgrade Guide",
+      "eyebrow": "City Progression",
+      "intro": "City upgrades are a key part of Missiles vs Cities because the official gameplay loop starts with building and upgrading your city. A strong early plan is to improve the parts of your progression that help you earn cash faster and support better missile use.",
+      "items": [
         {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
+          "upgradeFocus": "City Growth",
           "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "purpose": "Build up your city as the base of your progression.",
+          "bestTimeToUpgrade": "Early game",
+          "playerTip": "Start here before chasing expensive missile upgrades."
         },
         {
-          "name": "Glider Glove",
+          "upgradeFocus": "Cash Progression",
           "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "purpose": "Support faster earnings from destroying buildings.",
+          "bestTimeToUpgrade": "Early to mid game",
+          "playerTip": "Upgrade anything that helps you turn attacks into more cash."
         },
         {
-          "name": "Projectile Wand or Bombs",
+          "upgradeFocus": "Missile Support",
           "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "purpose": "Pair your city progress with stronger missile attacks.",
+          "bestTimeToUpgrade": "Mid game",
+          "playerTip": "Missile power matters most when it helps you destroy buildings faster."
+        },
+        {
+          "upgradeFocus": "Balanced Reinvestment",
+          "priority": "Medium",
+          "purpose": "Split cash between city upgrades and missile improvements.",
+          "bestTimeToUpgrade": "After your first stable cash loop",
+          "playerTip": "Do not spend everything on one side if your attacks or city growth slow down."
+        },
+        {
+          "upgradeFocus": "Late Growth",
+          "priority": "Medium",
+          "purpose": "Keep upgrading after the basic loop becomes easy.",
+          "bestTimeToUpgrade": "Late game",
+          "playerTip": "Use stronger cash income to push bigger city upgrades and better missiles."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
+    "missilesVsCitiesCashFarming": {
+      "title": "How to Farm Cash Faster in Missiles vs Cities",
+      "eyebrow": "Cash Farming",
+      "intro": "Missiles vs Cities is built around a simple loop: build and upgrade your city, equip better missiles, then destroy other buildings for cash and rewards. The fastest farming path is to keep improving your city while using missiles on targets that give reliable returns.",
+      "items": [
         {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
+          "step": 1,
+          "title": "Upgrade your city first",
+          "description": "Start by building up your city because city growth is the base of your progression in Missiles vs Cities."
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
+          "step": 2,
+          "title": "Equip your best available missiles",
+          "description": "Use the strongest missiles you currently have before attacking so you can destroy buildings more consistently."
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
+          "step": 3,
+          "title": "Attack buildings for cash and rewards",
+          "description": "The official game loop says players blow up other buildings for cash and rewards, so attacks should focus on buildings."
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
+          "step": 4,
+          "title": "Reinvest cash into upgrades",
+          "description": "Spend earned cash on city and missile upgrades instead of holding it too long to speed up each farming cycle."
         },
         {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
+          "step": 5,
+          "title": "Repeat the city-to-missile loop",
+          "description": "The cleanest Missiles vs Cities farming rhythm is: upgrade city, arm better missiles, destroy buildings, collect cash, then upgrade again."
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "missilesVsCitiesBuildings": {
+      "title": "Missiles vs Cities Buildings Guide",
+      "eyebrow": "Buildings",
+      "intro": "Buildings matter on both sides of the game: your own city needs upgrades, while enemy buildings are the main things you destroy for cash and rewards in Missiles vs Cities. This guide explains the building roles players should understand before farming or attacking.",
+      "items": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "title": "City Buildings",
+          "description": "Your city is the core progression system in Missiles vs Cities, and building and upgrading it is one of the main actions in the official game description.",
+          "playerValue": "Supports long-term progression"
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "title": "Enemy Buildings",
+          "description": "Enemy buildings are the main attack targets, and the game description directly says players blow up others' buildings for cash and rewards.",
+          "playerValue": "Main source of attack rewards"
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "title": "Upgraded Buildings",
+          "description": "Upgraded city structures represent stronger progression, and city growth and missile power work together in Missiles vs Cities.",
+          "playerValue": "Improves the upgrade loop"
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "title": "Reward Targets",
+          "description": "Buildings should be treated as cash targets during attacks, since wasting missiles away from buildings slows down farming progress.",
+          "playerValue": "Better cash efficiency"
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "title": "Base Growth",
+          "description": "City growth gives players a clearer reason to keep farming in Missiles vs Cities, with the main loop tying upgrades, missiles, and attacks together.",
+          "playerValue": "Keeps progression moving"
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "title": "Attack Pressure",
+          "description": "Because other players can target buildings, stronger city progress also creates more competitive pressure during public servers.",
+          "playerValue": "Important for multiplayer play"
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "missilesVsCitiesAttackStrategy": {
+      "title": "Best Attack Strategy for Missiles vs Cities",
+      "eyebrow": "Attack Strategy",
+      "intro": "Missiles vs Cities rewards players for using missiles against other buildings. A good attack strategy is not about firing randomly; it is about choosing building targets, using your best missiles, and turning every reward back into upgrades.",
+      "items": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "What should I attack first in Missiles vs Cities?",
+          "answer": "Focus on buildings because the official Missiles vs Cities game loop is built around blowing up others' buildings for cash and rewards."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "question": "When should I upgrade missiles in Missiles vs Cities?",
+          "answer": "Upgrade or equip better missiles when your current missiles feel too weak to destroy buildings efficiently. Stronger missiles make each attack cycle more valuable."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "question": "How do I avoid wasting attacks in Missiles vs Cities?",
+          "answer": "Do not fire without a clear building target. In Missiles vs Cities, missiles should be used when they can help destroy structures and return cash or rewards."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "Should I farm or attack more in Missiles vs Cities?",
+          "answer": "Use both together. Upgrade your city for growth, then attack buildings for cash, then reinvest those rewards into more city and missile upgrades in Missiles vs Cities."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "question": "What is the best attack loop in Missiles vs Cities?",
+          "answer": "Build up your city, arm your best missiles, attack enemy buildings, collect rewards, then spend the rewards on more upgrades to repeat the Missiles vs Cities loop."
+        },
+        {
+          "question": "Why do buildings matter in Missiles vs Cities attacks?",
+          "answer": "Buildings are the target type directly connected to the game's reward loop. Attacking buildings is the clearest way to turn missile use into progression in Missiles vs Cities."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
+    "missilesVsCitiesStats": {
+      "title": "Missiles vs Cities Stats and Updates",
+      "eyebrow": "Stats",
+      "intro": "This section gives returning players a quick snapshot of Missiles vs Cities, focusing on public game status, creator information, and core gameplay signals from Roblox and analytics pages.",
+      "items": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "metric": "Game Name",
+          "value": "Missiles vs Cities",
+          "note": "Official Roblox experience title"
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "metric": "Creator",
+          "value": "veedio gaems",
+          "note": "Listed as the Roblox creator group"
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "metric": "Genre",
+          "value": "Simulation / Tycoon",
+          "note": "Listed by Creator Exchange"
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "metric": "Current CCU",
+          "value": "3.09K",
+          "note": "Public player activity shown on Creator Exchange"
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "metric": "Like Ratio",
+          "value": "97%",
+          "note": "Public rating signal shown on Creator Exchange"
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "metric": "Codes Status",
+          "value": "Tracked on Roblox",
+          "note": "Code drops appear on the official Roblox page and veedio gaems community"
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "metric": "Core Gameplay",
+          "value": "Build and upgrade your city, arm missiles, destroy buildings for cash and rewards",
+          "note": "Matches the official Roblox game description"
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "metric": "Roblox Place ID",
+          "value": "112641748896693",
+          "note": "Used by the official Roblox experience URL"
         }
       ]
     }
@@ -749,31 +399,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Missiles vs Cities",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "Is Missiles vs Cities a multiplayer game?",
+        "answer": "Yes. Missiles vs Cities is a Roblox missile tycoon PvP game where players build cities, launch missiles, and destroy rival buildings for cash and rewards."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I earn cash fast in Missiles vs Cities?",
+        "answer": "In Missiles vs Cities, the fastest cash comes from upgrading your city, equipping stronger missiles, and focusing attacks on enemy buildings that give reliable reward returns."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What are the best missiles to use in Missiles vs Cities?",
+        "answer": "The best missiles in Missiles vs Cities are the ones that destroy buildings faster and improve your cash farming efficiency. Prioritize high-damage missiles as soon as they unlock."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Where can I play Missiles vs Cities?",
+        "answer": "Missiles vs Cities is available on Roblox. You can launch it directly from the official Roblox game page on any supported device."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Who made Missiles vs Cities?",
+        "answer": "Missiles vs Cities is developed by veedio gaems. The official Roblox creator group and game page are the main update channels for new content and codes."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Are there codes in Missiles vs Cities?",
+        "answer": "Yes. New Missiles vs Cities codes and reward drops appear on the official Roblox game page and the veedio gaems community page, so check both for the latest updates."
       }
     ]
   },
@@ -799,125 +449,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Missiles vs Cities Codes",
+      "description": "All active Missiles vs Cities codes, reward types, and the official sources to check for new code drops.",
+      "metaTitle": "Missiles vs Cities Codes - Active Rewards (2026)",
+      "metaDescription": "Find active Missiles vs Cities codes, reward types, and where new code drops appear. Updated codes list for the Roblox missile tycoon PvP game.",
+      "categoryLabel": "CODES",
+      "whatIs": "What are Missiles vs Cities Codes?",
+      "whatIsDescription": "Missiles vs Cities codes are reward drops that give players free cash and bonuses. Codes are tracked through the official Roblox game page and the veedio gaems community page.",
+      "why": "Why use codes?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Free Cash Boost",
+        "step1Description": "Codes give instant cash to speed up your city and missile upgrades",
+        "step2Title": "Early Advantage",
+        "step2Description": "Starter rewards help new players progress faster in Missiles vs Cities",
+        "step3Title": "Stay Updated",
+        "step3Description": "Checking official sources keeps you ahead of new reward drops"
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Codes"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "beginner": {
+      "title": "Missiles vs Cities Beginner Guide",
+      "description": "Learn the basic Missiles vs Cities loop: build your city, upgrade it, equip missiles, and destroy buildings for cash.",
+      "metaTitle": "Missiles vs Cities Beginner Guide - How to Play",
+      "metaDescription": "Start strong in Missiles vs Cities with this beginner guide covering city building, upgrades, missiles, attacks, and cash farming basics.",
+      "categoryLabel": "BEGINNER",
+      "whatIs": "What is the Beginner Guide?",
+      "whatIsDescription": "The Missiles vs Cities beginner guide explains the core gameplay loop so new players can start building, upgrading, and earning cash from their very first session.",
+      "why": "Why read the beginner guide?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Learn the Core Loop",
+        "step1Description": "Understand how city upgrades and missile attacks connect in Missiles vs Cities",
+        "step2Title": "Avoid Early Mistakes",
+        "step2Description": "Spend early cash on the right upgrades instead of random purchases",
+        "step3Title": "Progress Faster",
+        "step3Description": "Master the attack and upgrade loop to grow your city quickly"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Beginner Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "missiles": {
+      "title": "Missiles vs Cities Missiles",
+      "description": "Missile types, damage values, and upgrade priority to destroy buildings faster in Missiles vs Cities.",
+      "metaTitle": "Missiles vs Cities Missiles - Best Tier List & Upgrades",
+      "metaDescription": "Rank the best missiles in Missiles vs Cities by damage, upgrade priority, and farming efficiency. Choose the right missile for faster building destruction.",
+      "categoryLabel": "MISSILES",
+      "whatIs": "What are Missiles vs Cities Missiles?",
+      "whatIsDescription": "Missiles are the main attack tool in Missiles vs Cities. This guide ranks missiles by damage and upgrade priority so you can destroy buildings and farm cash more efficiently.",
+      "why": "Why study missile upgrades?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Pick the Best Missile",
+        "step1Description": "Choose missiles that destroy buildings faster in Missiles vs Cities",
+        "step2Title": "Upgrade Efficiently",
+        "step2Description": "Spend cash on the missile upgrades with the highest payoff",
+        "step3Title": "Farm Cash Faster",
+        "step3Description": "Better missiles mean more building destruction and more rewards"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Missile Guides"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "cities": {
+      "title": "Missiles vs Cities City Upgrades",
+      "description": "City building, upgrade paths, and defense layout to grow your base in Missiles vs Cities.",
+      "metaTitle": "Missiles vs Cities City Upgrades - Build & Defense Guide",
+      "metaDescription": "Plan your Missiles vs Cities city upgrades with this guide to building, income, defense, and long-term base growth.",
+      "categoryLabel": "CITIES",
+      "whatIs": "What are City Upgrades?",
+      "whatIsDescription": "City upgrades are the foundation of progression in Missiles vs Cities. This guide helps you decide what to upgrade first to earn cash faster and support stronger missile attacks.",
+      "why": "Why upgrade your city?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Stronger Base",
+        "step1Description": "A bigger city gives you more value across every match in Missiles vs Cities",
+        "step2Title": "Faster Income",
+        "step2Description": "City upgrades boost the cash you earn from destroying buildings",
+        "step3Title": "Better Synergy",
+        "step3Description": "Pair city growth with missile power for the strongest loop"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All City Guides"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "cash": {
+      "title": "Missiles vs Cities Cash Farming",
+      "description": "The fastest ways to earn cash by destroying buildings and upgrading efficiently in Missiles vs Cities.",
+      "metaTitle": "Missiles vs Cities Cash Farming - Fast Money Guide",
+      "metaDescription": "Learn the fastest cash farming methods in Missiles vs Cities: pick the right targets, use your best missiles, and reinvest rewards into upgrades.",
+      "categoryLabel": "CASH",
+      "whatIs": "What is Cash Farming?",
+      "whatIsDescription": "Cash farming in Missiles vs Cities is the process of repeatedly destroying buildings with strong missiles to earn cash and rewards, then reinvesting that cash into city and missile upgrades.",
+      "why": "Why focus on cash farming?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Core Resource",
+        "step1Description": "Cash drives every city and missile upgrade in Missiles vs Cities",
+        "step2Title": "Faster Progress",
+        "step2Description": "Efficient farming shortens the time between major upgrades",
+        "step3Title": "Stronger Loop",
+        "step3Description": "Reinvested cash keeps your attack and upgrade cycle accelerating"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Cash Guides"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "battles": {
+      "title": "Missiles vs Cities Battles",
+      "description": "PvP tactics, attack timing, and building destruction tips to win battles in Missiles vs Cities.",
+      "metaTitle": "Missiles vs Cities Battles - PvP & Attack Strategy",
+      "metaDescription": "Master Missiles vs Cities battles with PvP tips, attack timing, and building destruction strategies that maximize cash and reward returns.",
+      "categoryLabel": "BATTLES",
+      "whatIs": "What are Missiles vs Cities Battles?",
+      "whatIsDescription": "Battles in Missiles vs Cities are the PvP side of the game, where you use missiles to destroy other players' buildings for cash, rewards, and leaderboard progress.",
+      "why": "Why focus on battles?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Better Targets",
+        "step1Description": "Smart target selection improves every attack in Missiles vs Cities",
+        "step2Title": "Less Waste",
+        "step2Description": "Timed missile strikes avoid wasted shots and lost rewards",
+        "step3Title": "Higher Returns",
+        "step3Description": "Strong attack strategy turns missiles into steady cash"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Battle Guides"
+    },
+    "upgrades": {
+      "title": "Missiles vs Cities Upgrades",
+      "description": "Overall upgrade priority for Missiles vs Cities: what to upgrade first, city or missiles.",
+      "metaTitle": "Missiles vs Cities Upgrades - Best Upgrade Order",
+      "metaDescription": "Plan your Missiles vs Cities upgrade order with this guide to city upgrades, missile improvements, and the best upgrades to buy first.",
+      "categoryLabel": "UPGRADES",
+      "whatIs": "What are Missiles vs Cities Upgrades?",
+      "whatIsDescription": "Upgrades in Missiles vs Cities cover both city progression and missile power. This guide explains the best upgrade order so you never waste early cash.",
+      "why": "Why plan your upgrades?",
+      "whySteps": {
+        "step1Title": "Spend Smart",
+        "step1Description": "A clear order keeps every cash deposit working in Missiles vs Cities",
+        "step2Title": "Avoid Dead Ends",
+        "step2Description": "Know which upgrades to skip and which to rush first",
+        "step3Title": "Maximize Growth",
+        "step3Description": "Balanced upgrades keep your city and missile power rising together"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Upgrade Guides"
+    },
+    "store": {
+      "title": "Missiles vs Cities Store",
+      "description": "Roblox store content, Game Passes, and paid items available in Missiles vs Cities.",
+      "metaTitle": "Missiles vs Cities Store - Game Passes & Paid Items",
+      "metaDescription": "Explore the Missiles vs Cities Roblox store: Game Passes, paid items, and purchasing tips for the missile tycoon PvP game.",
+      "categoryLabel": "STORE",
+      "whatIs": "What is the Missiles vs Cities Store?",
+      "whatIsDescription": "The Missiles vs Cities store on Roblox offers Game Passes and paid items that can accelerate your city and missile progression.",
+      "why": "Why check the store?",
+      "whySteps": {
+        "step1Title": "Game Passes",
+        "step1Description": "Game Passes unlock permanent boosts in Missiles vs Cities",
+        "step2Title": "Paid Items",
+        "step2Description": "Browse paid items that support faster progression",
+        "step3Title": "Smart Purchases",
+        "step3Description": "Pick the offers that match your upgrade goals"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Store Guides"
     }
   }
 }
