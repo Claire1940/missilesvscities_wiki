@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "description": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, クラフト, バイオーム, 実績, サバイバル, Steam",
-      "ogTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "ogDescription": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "twitterTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "twitterDescription": "Lucid Blocks Wikiでは、Steamの超現実的なボクセルサンドボックスにおけるクラフト、バイオーム、クリーチャー、アイテム、実績、サバイバルのヒントを網羅しています。"
+      "title": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "description": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress.",
+      "keywords": "Missiles vs Cities, Roblox, codes, missiles, upgrades, city, cash, tycoon, PvP",
+      "ogTitle": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "ogDescription": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress.",
+      "twitterTitle": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "twitterDescription": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "記事は近日公開予定です"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ ボクセル・サバイバル・サンドボックス",
-    "title": "Lucid Blocks Wiki",
-    "description": "夢のようなバイオームを探索し、Apotheosisでアイテムを融合、自由に建築を楽しみましょう。Steamで繰り広げられるこのシュールなオープンワールド・サンドボックスで、奇妙なクリーチャーから生き延びてください。",
-    "getFreeCodesCTA": "クラフトガイドを見る",
-    "playOnSteamCTA": "Steamでプレイ",
+    "badge": "Roblox Missile Tycoon PvP",
+    "title": "Missiles vs Cities Wiki",
+    "description": "Build and upgrade your city, unlock stronger missiles, attack rival buildings, earn cash and rewards, and learn the fastest strategy to progress in this Roblox tycoon PvP game.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "オンラインプレイヤー"
+        "value": "3.09K",
+        "label": "Players Online"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "最大同時接続数"
+        "value": "97%",
+        "label": "Positive Reviews"
       },
       "stat3": {
-        "value": "97%",
-        "label": "好評"
+        "value": "Simulation",
+        "label": "Tycoon PvP"
       },
       "stat4": {
-        "value": "2026年3月12日",
-        "label": "リリース日"
+        "value": "veedio gaems",
+        "label": "Developer"
       }
     }
   },
@@ -785,27 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Lucid Blocksを探索する準備はできましたか？",
-    "description": "DiscordのLucid Blocksコミュニティに参加して、ガイドや最新情報、ディスカッションをチェックしましょう！",
-    "joinCommunity": "Discordに参加",
-    "joinGame": "Steamでプレイ"
+    "title": "Ready to Dominate Missiles vs Cities?",
+    "description": "Jump into Missiles vs Cities on Roblox, build your city, launch missiles, and climb the leaderboard!",
+    "joinCommunity": "Watch on YouTube",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocksのクラフト、バイオーム、クリーチャー、実績、サバイバルガイドに関する完全なリソースハブです。",
-    "resources": "リソース",
-    "community": "コミュニティ",
-    "legal": "法的情報",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam コミュニティ",
-    "steamStore": "Steam ストア",
-    "about": "このサイトについて",
-    "privacy": "プライバシーポリシー",
-    "terms": "利用規約",
-    "copyrightNotice": "著作権",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocksの開発元とは提携していません。",
-    "disclaimer": "非公式のファン作成リソースサイトです。"
+    "title": "Missiles vs Cities Wiki",
+    "description": "Your complete resource hub for Missiles vs Cities codes, missiles, city upgrades, cash farming, PvP tips, and beginner guides.",
+    "resources": "Resources",
+    "community": "Community",
+    "legal": "Legal",
+    "roblox": "Roblox Game",
+    "youtube": "YouTube",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Missiles vs Cities Wiki. Not affiliated with veedio gaems.",
+    "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
     "guides": {

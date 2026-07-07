@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "description": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях, концовках и советы по выживанию в сюрреалистичной воксельной песочнице на Steam.",
-      "keywords": "Lucid Blocks, вики Lucid Blocks, крафт, биомы, достижения, выживание, Steam",
-      "ogTitle": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "ogDescription": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях, концовках и советы по выживанию в сюрреалистичной воксельной песочнице на Steam.",
-      "twitterTitle": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "twitterDescription": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях и советы по выживанию в сюрреалистичной воксельной песочнице на Steam."
+      "title": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "description": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress.",
+      "keywords": "Missiles vs Cities, Roblox, codes, missiles, upgrades, city, cash, tycoon, PvP",
+      "ogTitle": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "ogDescription": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress.",
+      "twitterTitle": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "twitterDescription": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Статьи скоро появятся"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Воксельная песочница на выживание",
-    "title": "Lucid Blocks Вики",
-    "description": "Исследуйте сказочные биомы, объединяйте предметы с помощью Apotheosis, свободно стройте и выживайте среди странных существ в этой сюрреалистичной песочнице с открытым миром на Steam.",
-    "getFreeCodesCTA": "Изучить руководство по крафту",
-    "playOnSteamCTA": "Играть на Steam",
+    "badge": "Roblox Missile Tycoon PvP",
+    "title": "Missiles vs Cities Wiki",
+    "description": "Build and upgrade your city, unlock stronger missiles, attack rival buildings, earn cash and rewards, and learn the fastest strategy to progress in this Roblox tycoon PvP game.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1 325",
-        "label": "Игроков онлайн"
+        "value": "3.09K",
+        "label": "Players Online"
       },
       "stat2": {
-        "value": "1 986",
-        "label": "Пиковый онлайн"
+        "value": "97%",
+        "label": "Positive Reviews"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Положительных отзывов"
+        "value": "Simulation",
+        "label": "Tycoon PvP"
       },
       "stat4": {
-        "value": "12 марта 2026",
-        "label": "Дата выхода"
+        "value": "veedio gaems",
+        "label": "Developer"
       }
     }
   },
@@ -181,27 +181,25 @@
     ]
   },
   "cta": {
-    "title": "Готовы исследовать Lucid Blocks?",
-    "description": "Присоединяйтесь к сообществу Lucid Blocks в Discord, где вас ждут руководства, обновления и обсуждения!",
-    "joinCommunity": "Присоединиться к Discord",
-    "joinGame": "Играть на Steam"
+    "title": "Ready to Dominate Missiles vs Cities?",
+    "description": "Jump into Missiles vs Cities on Roblox, build your city, launch missiles, and climb the leaderboard!",
+    "joinCommunity": "Watch on YouTube",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Вики Lucid Blocks",
-    "description": "Ваш полноценный ресурсный центр по крафту, биомам, существам, достижениям и руководствам по выживанию в Lucid Blocks.",
-    "resources": "Ресурсы",
-    "community": "Сообщество",
-    "legal": "Юридическая информация",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Сообщество Steam",
-    "steamStore": "Магазин Steam",
-    "about": "О проекте",
-    "privacy": "Политика конфиденциальности",
-    "terms": "Условия использования",
-    "copyrightNotice": "Авторское право",
-    "copyright": "© 2026 Вики Lucid Blocks. Не связано с разработчиками Lucid Blocks.",
-    "disclaimer": "Неофициальный фанатский ресурс."
+    "title": "Missiles vs Cities Wiki",
+    "description": "Your complete resource hub for Missiles vs Cities codes, missiles, city upgrades, cash farming, PvP tips, and beginner guides.",
+    "resources": "Resources",
+    "community": "Community",
+    "legal": "Legal",
+    "roblox": "Roblox Game",
+    "youtube": "YouTube",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Missiles vs Cities Wiki. Not affiliated with veedio gaems.",
+    "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
     "guides": {

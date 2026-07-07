@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "description": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress.",
+      "keywords": "Missiles vs Cities, Roblox, codes, missiles, upgrades, city, cash, tycoon, PvP",
+      "ogTitle": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "ogDescription": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress.",
+      "twitterTitle": "Missiles vs Cities Wiki - Codes, Missiles & Upgrades",
+      "twitterDescription": "Missiles vs Cities Wiki with Roblox codes, missile upgrades, city building, cash farming, PvP tips, rewards, and beginner guides for faster progress."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox Missile Tycoon PvP",
+    "title": "Missiles vs Cities Wiki",
+    "description": "Build and upgrade your city, unlock stronger missiles, attack rival buildings, earn cash and rewards, and learn the fastest strategy to progress in this Roblox tycoon PvP game.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
+        "value": "3.09K",
         "label": "Players Online"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
-      },
-      "stat3": {
         "value": "97%",
         "label": "Positive Reviews"
       },
+      "stat3": {
+        "value": "Simulation",
+        "label": "Tycoon PvP"
+      },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "veedio gaems",
+        "label": "Developer"
       }
     }
   },
@@ -785,26 +785,24 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Dominate Missiles vs Cities?",
+    "description": "Jump into Missiles vs Cities on Roblox, build your city, launch missiles, and climb the leaderboard!",
+    "joinCommunity": "Watch on YouTube",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Missiles vs Cities Wiki",
+    "description": "Your complete resource hub for Missiles vs Cities codes, missiles, city upgrades, cash farming, PvP tips, and beginner guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Roblox Game",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Missiles vs Cities Wiki. Not affiliated with veedio gaems.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
