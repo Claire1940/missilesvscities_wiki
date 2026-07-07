@@ -1,0 +1,3 @@
+# 占位文件：保持 content/ 目录骨架。
+# scripts/generate-content-manifest.mjs 要求 content/ 目录存在，否则 exit(1)。
+# 文章由后续 Part8（导航分类与文章接入）填充。
